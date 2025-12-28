@@ -86,9 +86,4 @@ Estudando **Java** e **C#** para expandir minha atuação em sistemas de alta pe
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PauloRicardofsa98&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloRicardofsa98&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="150"/>
-</p>
-
 <p align="center"><i>Formosa, GO</i></p>
